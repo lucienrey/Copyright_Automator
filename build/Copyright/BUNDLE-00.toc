@@ -1,0 +1,3 @@
+([('Copyright',
+   '/Users/lucienrey/Documents/2020/Copyright_Automator/dist/Copyright',
+   'EXECUTABLE')],)
